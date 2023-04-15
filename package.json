@@ -1,0 +1,16 @@
+{
+  "name": "kickstartnodejs",
+  "version": "1.0.0",
+  "description": "Basic Of Node Js",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon file.js",
+    "start-server": "node file.js"
+  },
+  "author": "Swetha Reddy",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
